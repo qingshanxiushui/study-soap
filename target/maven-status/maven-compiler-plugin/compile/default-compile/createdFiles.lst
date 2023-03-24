@@ -1,0 +1,6 @@
+org\example\SoapApplication.class
+org\example\model\Student.class
+org\example\service\SoapServiceImpl.class
+org\example\service\SoapService.class
+org\example\App.class
+org\example\configuration\SoapServiceConfig.class
